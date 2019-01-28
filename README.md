@@ -2,4 +2,5 @@
 My first repo/website
 
 [x] connected to git hub
-[] push change
+
+[x] push change
